@@ -15,4 +15,4 @@ comments: true
 * [عرفان کلندی](https://erfan-kalandi.github.io)
 * [پوریا کرمی](https://pourya22334415.github.io)
 * [امیر پاشازاده](https://amirpashazadeh.github.io)
-* [سید ماکان حاجی سید جوادی](https://makanjavadi.github.io/makanjavadi.github.io/)
+* [سید ماکان حاجی سید جوادی](https://makanjavadi.github.io/Makan.github.io/)
